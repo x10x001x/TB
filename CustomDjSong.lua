@@ -10,6 +10,7 @@
 this is game issue, not mine.
 ------------------------------------
 [!] = Only you can hear the song, that means its isnt server sided.
+[!] = Note: I'm very sorry for break this script because of obfuscation.
 [!] = If you using loadstring then add these strings:
 _G.customsong = 123123123--song that you want to play
 _G.customvolume = 1.3--custom volume that you want to set for song.
