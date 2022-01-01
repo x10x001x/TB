@@ -5,6 +5,8 @@ https://discord.com/invite/jtZn2vVHKr
 
 [!] = In Beta version.
 
+[!] = Create file in your Exploit autoexec folder "AutoFarm.lua" or other name.
+
 [!] = If you using loadstring then add these strings:
 
 getgenv().ScriptKey = ""--Script key, if there will be no key or if it will be wrong, it will not run the Script.
