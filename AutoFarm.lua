@@ -17,7 +17,7 @@ getgenv().tower = "Scout"--Tower that you want to use (1 tower only)
 
 getgenv().position = Vector3.new(44.919334411621,213.59652709961,13.184490203857)--Position where your tower will be auto placed(change it if you choosed not snowy forest)
 
-getgenv().ShittoPc = true--Increases lags true enable/false disable.
+getgenv().ShittoPc = true--Decreases lags true enable/false disable.
 
 
 ]]
