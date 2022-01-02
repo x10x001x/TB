@@ -3,6 +3,9 @@
 
 https://discord.com/invite/jtZn2vVHKr
 
+[Fixes] = Fixed game joiner.
+
+------------------------------------
 [!] = In Beta version.
 
 [!] = Create file in your Exploit autoexec folder "AutoFarm.lua" or other name.
