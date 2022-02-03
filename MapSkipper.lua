@@ -1,5 +1,4 @@
     repeat wait(0.5) until game:IsLoaded() and game.Players.LocalPlayer
-    getgenv().map = "Military Base"
     if game.PlaceId == 49707852 or game.PlaceId == 46955756 then
     repeat wait()
     if not workspace.Map1.Type.Value ~= getgenv().map and workspace.Map2.Type.Value ~= getgenv().map and workspace.Map3.Type.Value ~= getgenv().map then
